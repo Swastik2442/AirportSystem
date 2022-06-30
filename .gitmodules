@@ -1,9 +1,0 @@
-[submodule "AirlineStuff"]
-	path = AirlineStuff
-	url = https://github.com/Swastik2442/AirlineStuff.git
-[submodule "AirportStuff"]
-	path = AirportStuff
-	url = https://github.com/Swastik2442/AirportStuff.git
-[submodule "PassengerStuff"]
-	path = PassengerStuff
-	url = https://github.com/Swastik2442/PassengerStuff.git
